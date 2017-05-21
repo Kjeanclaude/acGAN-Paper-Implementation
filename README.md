@@ -20,8 +20,8 @@ We should use here at least Conditional GAN.
 =================================
 ## GANs ARCHITECTURES
 
-![alt tag](https://github.com/Kjeanclaude/Fast-AI-Courses/blob/master/Part-2/acGAN%20Paper%20Implementation/Comparison-of-different-GAN-variant.jpg)
-![alt tag](https://github.com/Kjeanclaude/Fast-AI-Courses/blob/master/Part-2/acGAN%20Paper%20Implementation/Stack-EB-gan2.png)
+![alt tag](https://github.com/Kjeanclaude/acGAN-Paper-Implementation/blob/master/Comparison-of-different-GAN-variant.jpg)
+![alt tag](https://github.com/Kjeanclaude/acGAN-Paper-Implementation/blob/master/Stack-EB-gan2.png)
 
 =================================
 
