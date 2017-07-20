@@ -84,3 +84,32 @@ Thus, the conditions of acGAN are six-dimensional one-hot vectors.
 
 -	**Conditional Generative Adversarial Networks (GAN) in Pytorch** | Kristiadi Agustinus
 [Available here](http://wiseodd.github.io/techblog/2017/01/20/gan-pytorch/)
+
+
+
+---
+## Citations
+
+Please cite us in your publications if it helps your research.
+The following is a [BibTeX](http://www.bibtex.org/) and plaintext reference for our
+[Age-Gender-Conditional-GAN](https://github.com/Kjeanclaude/acGAN-Paper-Implementation).
+
+```
+@techreport{ag2017cGAN,
+  title={agcGAN: Age-Gender Conditional Generative Adversarial Networks},
+  author={Kouassi Konan Jean-Claude, Gidi, liusq11},
+  year={2017},
+  institution={FastAI, Part2},
+}
+
+K. K. Jean-Claude, Gidi, liusq11
+"agcGAN: Age-Gender Conditional Generative Adversarial Networks,"
+FastAI, Part2, Tech. Rep., 2017.
+
+- Project discussion and choice : Kouassi Konan Jean-Claude & Gidi
+- Project code implementation : Kouassi Konan Jean-Claude
+- Training and improvement : Kouassi Konan Jean-Claude & liusq11
+- Mobile Application : ...
+```
+---
+
